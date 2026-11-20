@@ -6,12 +6,12 @@ Websites und Social-Media-Auftritte für kleine Betriebe in der Region Salzburg/
 - 🎓 AI-Studium an der Paris Lodron Universität Salzburg (seit Herbst 2026)
 - 🛠️ Davor HTL Hallein, Wirtschaftsingenieurwesen/Maschinenbau
 - 🌐 Websites und Social-Media-Betreuung für lokale Betriebe
-- 🔎 Suche ein Praktikum im Sommer 2027 (Software-Entwicklung, Web oder Daten)
+
 
 ## Technologien
 
 **Sprachen:** Java · JavaScript · HTML · CSS  
-**Werkzeuge:** Git · GitHub · KI-gestützte Entwicklung mit Claude
+**Werkzeuge:** Git · GitHub · KI-gestützte Entwicklung
 
 ## Projekte
 
@@ -23,4 +23,4 @@ Websites und Social-Media-Auftritte für kleine Betriebe in der Region Salzburg/
 
 ## Kontakt
 
-📧 hasanardayildirim@gmail.com · 📍 Salzburg / Hallein
+📧 hasanardayildirim@gmail.com · 📍 Salzburg 
