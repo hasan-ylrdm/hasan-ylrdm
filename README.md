@@ -19,7 +19,6 @@ Websites und Social-Media-Auftritte für kleine Betriebe in der Region Salzburg/
 |---|---|
 | [Website-Baukasten](https://github.com/haso-yld/website-baukasten) | Werkzeug, mit dem ich Websites für kleine Betriebe erstelle: Daten und Fotos eingeben, Branche und Design wählen, fertige Website als ZIP exportieren. Läuft offline im Browser, ohne Server; mit automatischen Tests |
 | [Social-Media-Toolkit](https://github.com/haso-yld/social-media-toolkit) | Werkzeug für die Social-Media-Betreuung lokaler Betriebe: Kundenverwaltung, Monatsplan, Post-Grafiken als PNG, Freigabe- und Monatsberichte als PDF. Importiert Kunden aus dem Website-Baukasten |
-| [Website-Demo](https://github.com/haso-yld/website-demo) | Beispiel-Website für einen fiktiven Handwerksbetrieb mit Live-Öffnungsstatus, responsiv, reines HTML/CSS/JS |
 | [Sortier-Labor](https://github.com/haso-yld/sortier-labor) | Java: vier Sortierverfahren als Unterklassen einer abstrakten Basisklasse, mit Laufzeit- und Vergleichsmessung und Tests |
 
 ## Kontakt
